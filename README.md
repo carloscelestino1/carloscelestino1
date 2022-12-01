@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on data analytics. [Case works](github.com/carloscelestino1/CaseWork)
 
-- 🌱 I’m currently learning **Data Science and Machine learning.**
+- 🌱 I’m currently learning **Data Science, Machine learning and Django.**
 
-- 💬 Ask me about **Python, ETL, POWER BI, SQL.**
+- 💬 Ask me about **Python, ETL, POWER BI, SQL, Django.**
 
 - 📫 How to reach me **carloscelestino93@gmail.com**
 
